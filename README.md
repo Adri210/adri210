@@ -5,7 +5,7 @@
 
 - 📚 Currently, I'm pursuing a degree in Software Engineering.
 
-- 💬 Focus on **Vue,JavaScript, HTML, CSS**
+- 💬 Focus on **IA,Python,Vue,JavaScript, HTML, CSS**
 
 - 👨‍💻 More at [Linkdln](https://www.linkedin.com/in/adriani-delfino/)
 
